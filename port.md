@@ -15,3 +15,15 @@
 6.  [Семестр VI](sem/sem6_port.md)
 7.  [Семестр VII](sem/sem7_port.md)
 8.  [Семестр VIII](sem/sem8_port.md)
+
+### Курсовые работы:
+1.  [Курсовая работа Семестра I](kurs/sem1_port.md)
+2.  [Курсовая работа Семестра IV](kurs/sem4_port.md)
+3.  [Курсовая работа Семестра V](kurs/sem5_port.md)
+4.  [Курсовая работа Семестра VII](kurs/sem7_port.md)
+
+### Практики:
+1.  [Практика Семестра II](prak/sem2_port.md)
+2.  [Практика Семестра III](prak/sem3_port.md)
+3.  [Практика Семестра VI](prak/sem6_port.md)
+4.  [Практика Семестра VII](prak/sem7_port.md)
