@@ -1,9 +1,9 @@
 ## Портфолио Семестра I
 
 - Меню
-  - [Домашняя страница](./sem/README.md)
-  - [Портфолио](./sem/port.md)
-  - [Обо мне](./sem/about.md)
+  - [Домашняя страница](https://vikichernysheva.github.io/portfolio/)
+  - [Портфолио](https://vikichernysheva.github.io/portfolio/port/)
+  - [Обо мне](https://vikichernysheva.github.io/portfolio/about/)
 
 ***
 ### Дисциплины Семестра I:
