@@ -1,8 +1,7 @@
 ## Портфолио Семестра I
 
 - Меню
-  - [Домашняя страница](https://vikichernysheva.github.io/portfolio/)
-  - [Портфолио](https://vikichernysheva.github.io/portfolio/port/)
+  - [Портфолио](https://vikichernysheva.github.io/portfolio/)
   - [Обо мне](https://vikichernysheva.github.io/portfolio/about/)
 
 ***
