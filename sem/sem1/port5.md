@@ -1,6 +1,6 @@
 ## Портфолио по дисциплине "Информационные технологии в математике"
 
-  - [Портфолио по семестрам](https://vikichernysheva.github.io/portfolio/port/)
+  - [Портфолио по семестрам](https://vikichernysheva.github.io/portfolio/)
   - [Портфолио Семестра I](https://vikichernysheva.github.io/portfolio/sem/sem1_port/)
 
 ***
