@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 name: Веб-портфолио студента Чернышевой Виктории
-title: Веб-портфолио
-description: студента
+title: Веб-портфолио студента Чернышевой Виктории
 permalink: /:title/
 version: v1.0.0
 
