@@ -1,6 +1,6 @@
 ## Портфолио по дисциплине "Алгоритмы и решение задач"
 
-  - [Портфолио по семестрам](https://vikichernysheva.github.io/portfolio/port/)
+  - [Портфолио по семестрам](https://vikichernysheva.github.io/portfolio/)
   - [Портфолио Семестра II](https://vikichernysheva.github.io/portfolio/sem/sem2_port/)
 
 ***
