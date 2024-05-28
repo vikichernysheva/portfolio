@@ -21,3 +21,4 @@ gems:
 
 github:
   is_project_page: false
+  site-footer-credits: false
