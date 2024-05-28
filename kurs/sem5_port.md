@@ -1,4 +1,4 @@
-## Курсовая работа Семестра IV
+## Курсовая работа Семестра V
 
 - Меню
   - [Портфолио](https://vikichernysheva.github.io/portfolio/)
