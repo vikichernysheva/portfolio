@@ -18,3 +18,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 theme: jekyll-theme-cayman
+
+site-footer: false
+site-footer-owner: false
+site-footer-credits: false
