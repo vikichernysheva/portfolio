@@ -1,4 +1,4 @@
-## Портфолио по дисциплине "IT - рекрумент"
+## Портфолио по дисциплине "Языки написания спецификаций"
 
   - [Портфолио по семестрам](https://vikichernysheva.github.io/portfolio/)
   - [Портфолио Семестра VIII](https://vikichernysheva.github.io/portfolio/sem/sem8_port/)
