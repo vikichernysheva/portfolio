@@ -1,4 +1,4 @@
-## Портфолио по дисциплине "Интегралы и дифференциальные уравнения"
+## Портфолио по дисциплине "IT - менеджмент"
 
   - [Портфолио по семестрам](https://vikichernysheva.github.io/portfolio/)
   - [Портфолио Семестра V](https://vikichernysheva.github.io/portfolio/sem/sem5_port/)
