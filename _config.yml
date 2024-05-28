@@ -19,6 +19,4 @@ gems:
 
 theme: jekyll-theme-cayman
 
-site-footer: false
-site-footer-owner: false
-site-footer-credits: false
+is_project_page: false
