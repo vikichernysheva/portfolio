@@ -10,7 +10,7 @@
 3.  [Практическая работа 3](https://docs.google.com/document/d/1H_7pUePa_2WZB6c1o79Ok08doD_dahMDpfIJ0RcQjHE/edit?usp=drive_link)
 4.  [Практическая работа 4](https://docs.google.com/document/d/1WjxYUo8dDD4CkMUmzTY_3IaiHsSndtwh92yO-KXrQ1U/edit?usp=drive_link)
 
-### Код к практической работе:
+### Код к практической работе 1:
 1. [Код задания 1 практической работы 1](https://drive.google.com/file/d/1qIt52y9tmzrwSopqR7GYlESW3SIT06Kv/view?usp=drive_link)
 2. [Код задания 2 практической работы 1](https://drive.google.com/file/d/1cnlNRDgnlOxyM-7rjv3ilUOc2ZWooCea/view?usp=drive_link)
 3. [Код задания 3 практической работы 1](https://drive.google.com/file/d/1WrlJmgE5UvmLdJIXz0ofbMOEF73MOhrD/view?usp=drive_link)
