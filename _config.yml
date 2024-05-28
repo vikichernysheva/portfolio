@@ -4,6 +4,7 @@ title: Веб-портфолио студента Чернышевой Викт�
 description: Российский Государственный Педагогический Университет им. А. И. Герцена
 permalink: /:title/
 version: v1.0.0
+site-footer: false
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
@@ -21,4 +22,3 @@ gems:
 
 github:
   is_project_page: false
-  site-footer-credits: false
