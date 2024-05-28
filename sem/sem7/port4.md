@@ -19,4 +19,4 @@
 2. [Словарь 2. How to keep kids engaged with educational games](https://docs.google.com/spreadsheets/d/1TMji85tBp_AmTkxiG8qs1JxIhAAPR_Hm2szbit9DOzQ/edit?usp=drive_link)
 3. [Словарь 3. Simple numbers game seems to make kids better at math](https://docs.google.com/spreadsheets/d/1ZzcvL9eKyn3VEd7tNKmmelMJg5apDsHy_lw7jteFOa4/edit?usp=drive_link)
 
-4. * [Презентация по теме ВКР "Development of an educational computer game in mathematics for primary school children"](https://docs.google.com/presentation/d/1tyYyjQ7_7Sn4Q9IZdK2yRjFgKXEJjb_lfW6K-ZhLew8/edit?usp=drive_link)
+* [Презентация по теме ВКР "Development of an educational computer game in mathematics for primary school children"](https://docs.google.com/presentation/d/1tyYyjQ7_7Sn4Q9IZdK2yRjFgKXEJjb_lfW6K-ZhLew8/edit?usp=drive_link)
