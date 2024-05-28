@@ -1,7 +1,7 @@
 ## Портфолио по дисциплине "Анализ данных и основы Data science"
 
   - [Портфолио по семестрам](https://vikichernysheva.github.io/portfolio/)
-  - [Портфолио Семестра III](https://vikichernysheva.github.io/portfolio/sem/sem3_port/)
+  - [Портфолио Семестра IV](https://vikichernysheva.github.io/portfolio/sem/sem4_port/)
 
 ***
 ### Лабораторные работы - Тема 6:
