@@ -9,6 +9,7 @@
 2.  [Лабораторная работа 2. Построение бинарного дерева  - нерекурсивная версия. Сравнение реализации](https://replit.com/@ViktoriiaChiern/LR-2-4#main.py)
 3.  [Лабораторная работа 3. Новые типы данных или изменения, касающихся стандартных типов данных в Python](https://replit.com/@ViktoriiaChiern/LR-3-4#main.py)
 4.  [Лабораторная работа 4. Работа с Lector](https://github.com/vichnya/my_lektor)
+  -  [Сайт на GitHub Pages](https://vichnya.github.io/my_lektor/)
 5.  [Лабораторная работа 5. Подключение к БД. Работа с декораторами. Логирование](https://replit.com/@ViktoriiaChiern/LR-5-4#main.py)
 6.  [Лабораторная работа 6. Управляемый декоратор](https://replit.com/@ViktoriiaChiern/LR-6-4#main.py)
 7.  [Лабораторная работа 6.5. Управляемый декоратор с параметром](https://replit.com/@ViktoriiaChiern/LR-6-4extra#main.py)
