@@ -1,3 +1,4 @@
+theme: jekyll-theme-architect
 name: Веб-портфолио студента Чернышевой Виктории
 title: Веб-портфолио студента Чернышевой Виктории
 description: Российский Государственный Педагогический Университет им. А. И. Герцена
@@ -16,5 +17,3 @@ kramdown:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-
-theme: minima
