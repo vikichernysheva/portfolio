@@ -28,5 +28,5 @@
 1. [Код задания 1 практической работы 3](https://drive.google.com/file/d/1W9iVHWLN1kAkH-nsRrHcPZju46NOG3ay/view?usp=drive_link)
 2. [Код задания 2 практической работы 3](https://drive.google.com/file/d/1N1Bv1Bbgu-d3B2nxPgs7B0__P1hkfzHE/view?usp=drive_link)
 
-### Код проекта практической работе 4:
+### Код проекта практической работы 4:
 * [Папка с кодом проекта практической работы 4](https://drive.google.com/drive/folders/13cktVa7mjxEKOBoMPwRyz_87MwQDvZA7?usp=drive_link)
