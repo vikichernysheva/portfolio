@@ -17,6 +17,4 @@ kramdown:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
-theme: jekyll-theme-cayman
-
-is_project_page: false
+theme: minima
